@@ -149,7 +149,9 @@
     "**/@babel/runtime-corejs2": "^7.7.4",
     "**/@babel/runtime": "^7.7.4",
     "**/hoist-non-react-statics": "^3.2.1",
-    "**/next/terser": "^4.1.2"
+    "**/next/terser": "^4.1.2",
+    "**/serialize-javascript": "2.1.1",
+    "**/debug": "3.1.0"
   },
   "nyc": {
     "include": [
